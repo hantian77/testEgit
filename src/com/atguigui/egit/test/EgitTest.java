@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+/**
+ * @author 91204
+ *
+ */
+package com.atguigui.egit.test;
+public class EgitTest{
+	public static void main(String[] args) {
+		System.out.println("aaa");
+		System.out.println("bbb");
+	}
+}
